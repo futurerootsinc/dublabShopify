@@ -1,0 +1,6 @@
+production:
+  password: fa360d7dcc755a6d833f82178e7c0a20
+  theme_id: "13032554539"
+  store: dublab.myshopify.com
+  ignore_files:
+    - config/settings_data.json
